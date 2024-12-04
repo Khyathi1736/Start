@@ -1,1 +1,2 @@
-This is file three
+This is file.
+This line added after commit.
